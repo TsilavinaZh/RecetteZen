@@ -2,6 +2,9 @@
 
 RecetteZen est une plateforme de partage de recettes où les amateurs de cuisine peuvent découvrir, partager et commenter des recettes culinaires.
 
+<center>
+  <img src='https://img.freepik.com/photos-gratuite/mise-plat-ingredients-alimentaires-recette-legumes_23-2148834745.jpg?size=626&ext=jpg' />
+</center>
 ## Fonctionnalités
 
 - **Authentification**: Les utilisateurs peuvent s'inscrire, se connecter et gérer leur profil.
